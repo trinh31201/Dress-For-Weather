@@ -87,4 +87,5 @@ def clothing(inp):
             "umbrella": umbrella
             }
 
-print(clothing(consumeForecasts(fetchForecast("37.524069,139.939348", "3SwqdYkk4ONYCLHs1vS7phS9G7oehSin"))))
+#print(clothing(consumeForecasts(fetchForecast("37.524069"+','+"139.939348", "3SwqdYkk4ONYCLHs1vS7phS9G7oehSin"))))
+print(clothing(consumeForecasts(fetchForecast("LAT"+','+"LON", "APIKEY")))
