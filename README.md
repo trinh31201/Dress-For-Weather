@@ -1,7 +1,7 @@
-# Dress Code Assistant
+# Dress For Weather
 
 ## Introduction
-Dress Code Assistant is a Python application that helps you decide what to wear based on the current weather conditions. By utilizing the ClimaCell Weather API, it fetches real-time weather forecasts and processes this data through decision trees to recommend the most suitable outfit for the day.
+Dress For Weather is a Python application that helps you decide what to wear based on the current weather conditions. By utilizing the [ClimaCell Weather API](https://www.tomorrow.io/weather-api/), it fetches real-time weather forecasts and processes this data through decision trees to recommend the most suitable outfit for the day.
 
 ## Features
 - Real-time weather forecast fetching using [ClimaCell Weather API](https://www.tomorrow.io/weather-api/).
