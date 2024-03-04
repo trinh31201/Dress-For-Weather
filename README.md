@@ -32,7 +32,7 @@ Dress Code Assistant is a Python application that helps you decide what to wear 
 ```bash
 python3 weather.py
 ```
-5. Get your outfit suggestion for the next 6 hours based on the current weather forecast.
+5. Get your outfit suggestion for the next 6 hours.
 
 ## How It Works
 The application calls the ClimaCell Weather API to retrieve the forecast for your location. It then processes this data through decision trees to determine factors like the day's minimum and maximum temperature, weather code and more. Based on this analysis, it suggests an appropriate outfit.
