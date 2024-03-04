@@ -29,9 +29,9 @@ Dress Code Assistant is a Python application that helps you decide what to wear 
 1. Open `weather.py` in your preferred text editor.
 2. Replace `LAT`, `LON` and `APIKEY` with your latitude, longitude and API key on the last line!
 3. Run the script
-   ```bash
-  $ python3 weather.py
-  ```
+```bash
+python3 weather.py
+```
 5. Get your outfit suggestion for the next 6 hours based on the current weather forecast.
 
 ## How It Works
